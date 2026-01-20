@@ -1,0 +1,8 @@
+#POST http://localhost:5000/api/start-task
+#Content-Type: application/json
+#
+#{
+#  "duration": 60
+#}
+
+GET http://localhost:5000/api/status/c4afac36-d510-4f1c-b23e-fb120797653a
